@@ -7,8 +7,8 @@
     <ProjectGuid>{D70D63E1-1121-4EB7-B04C-86C865E30757}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PSTExtractor</RootNamespace>
-    <AssemblyName>PSTExtractor</AssemblyName>
+    <RootNamespace>Macghriogair.PSTExtractor</RootNamespace>
+    <AssemblyName>Macghriogair.PSTExtractor</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

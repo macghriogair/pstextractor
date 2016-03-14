@@ -6,7 +6,7 @@ using System.Text;
 using Microsoft.Office.Interop.Outlook;
 using Redemption;
 
-namespace PSTExtractor
+namespace Macghriogair.PSTExtractor
 {
     static class Program
     {
